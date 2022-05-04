@@ -1,8 +1,6 @@
 ﻿using System;
 using BlogsAndPosts.Models;
 using System.Linq;
-using System.Runtime;
-using System.Security.Cryptography;
 using Castle.Core.Internal;
 
 namespace BlogsAndPosts
